@@ -1,4 +1,4 @@
-# Terra Survival Network
+# Terra Survival Network https://github.com/AquaCobalt/tsnsurvival/blob/main/logo.jpg
 Terra Survival Network (TSN) is my little Minecraft server!
 ## What's this repository for?
 This repository is used to archive all TSN world files and stuff at the end of each season\
