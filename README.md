@@ -11,3 +11,7 @@ My Discord Username: `nobodyhasthisusername`\
 Discord Server: https://discord.gg/rDPZ83Mr3B\
 
 <img src="https://github.com/AquaCobalt/tsnsurvival/blob/main/logo.jpg?raw=true" alt="alt text" width="200"/>
+
+Other Contributors:
+* [viu34yt](https://github.com/viu34yt)
+* [amberzadell](https://github.com/amberzadell)
