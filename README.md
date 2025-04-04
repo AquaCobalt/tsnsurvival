@@ -1,7 +1,7 @@
 # Terra Survival Network
 Terra Survival Network (TSN) is my little Minecraft server!
 ## What's this repository for?
-This repository is used to archive all world files and stuff at the end of each season
+This repository is used to archive all TSN world files and stuff at the end of each season\
 NOTE: Season 1 files aren't here because I lost the world :(
 ## Where can I download the files?
 The files can be found under releases.
