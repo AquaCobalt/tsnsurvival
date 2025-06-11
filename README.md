@@ -8,7 +8,7 @@ The files can be found under releases.\
 You can also go there by clicking [here.](https://github.com/AquaCobalt/tsnsurvival/releases/tag/Files)
 ## My Discord
 My Discord Username: `nobodyhasthisusername`\
-Discord Server: https://discord.gg/invite/rDPZ83Mr3B/
+Discord Server: https://discord.com/invite/rDPZ83Mr3B/
 
 <img src="https://github.com/AquaCobalt/tsnsurvival/blob/main/logo.jpg?raw=true" alt="alt text" width="200"/>
 
